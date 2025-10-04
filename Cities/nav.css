@@ -1,0 +1,27 @@
+.nav
+{
+    width: 100vw;
+    height: 10vh ;
+    
+    background-color: rgb(255, 255, 255);
+   box-shadow: -15px -1px 18px 6px rgba(169 135 179 / 84%);
+}
+
+
+.navlist
+{
+    display: flex;
+}
+
+.b1
+{
+    padding: 30px;
+    margin-left: 15vw;
+
+}
+
+.b1:hover{
+    cursor: grab;
+}
+
+
